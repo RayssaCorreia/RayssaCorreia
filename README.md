@@ -10,16 +10,20 @@
 - ✨ Tempo livre: 🏓ping pong / 🎼música / 🧵artesanato...
 
 ## Aprendendo
-- Linguagem C.
+- Linguagem C
 - Inglês.
 - Markdown
 - Circuitos Eletrônicos
 - Git
+- HTML
+- CSS
 
 ## Evolução
 <a href="https://github.com/RayssaCorreia">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RayssaCorreia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
+  <a href="https://github.com/RayssaCorreia">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RayssaCorreia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayssaCorreia&layout=compact&langs_count=7&theme=dracula"/>
 
 ## O que espero daqui pra frente
 ### Faz pouquíssimo tempo que entrei nesse ramo , estou fascinada com quantas ramificações e possibilidades. Espero me especializar e assim contribuir ainda mais para a evolução e crescimento desse "mundo tecnológico".
