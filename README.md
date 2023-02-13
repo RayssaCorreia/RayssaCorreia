@@ -6,7 +6,7 @@
 - 🌵 Idade: 16 anos
 - 🌎 Naturalidade: São Paulo - SP  <img src="https://cdn-bio.qrz.com/g/py2esg/br_sp.gif?p=e86615a43e841eb0975ccda1db66bc10" width="20"> <img src="https://acegif.com/wp-content/gif/brazilian-flag-14.gif" width="20">
 - 📚 Escolaridade: 2° Ano do ensino médio <img src="https://ceepcastaldi.webnode.com/_files/200000147-5e5b85f55b/200000017.png?ph=68c9b5e3c0" width="70">
-- 👔 Trabalho: Pado Industrial Comercial e Importadora <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX1oaZyjEolddGpT8bl6xlu-i9Oi-p2cKay9Usp4uXD24IrkA7YjjPapyoN95Zb7qRlbI&usqp=CAU" width="60">
+- 👔 Trabalho: F&K Group <img src="http://www.abve.org.br/wp-content/uploads/2020/07/FK-300x151.png" width="50">
 - ✨ Tempo livre: 🏓ping pong / 🎼música / 🧵artesanato...
 
 ## Aprendendo
