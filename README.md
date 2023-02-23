@@ -1,22 +1,12 @@
 <!-- obs: eu que fiz a gif-->
-# Rayssa Correia  <img src= "https://i.picasion.com/pic91/f753ba2ca2f2ee1cb3a41d7eb9465679.gif" width="65">
+# **Rayssa Correia**  <img src= "https://i.picasion.com/pic91/f753ba2ca2f2ee1cb3a41d7eb9465679.gif" width="60">
 
-## Um pouco sobre mim! <img src="https://c.tenor.com/F4L62ws6Fd0AAAAC/dancing-cactus.gif" width="25"></h1>
-
-- 🌵 Idade: 16 anos
-- 🌎 Naturalidade: São Paulo - SP  <img src="https://cdn-bio.qrz.com/g/py2esg/br_sp.gif?p=e86615a43e841eb0975ccda1db66bc10" width="20"> <img src="https://acegif.com/wp-content/gif/brazilian-flag-14.gif" width="20">
-- 📚 Escolaridade: 2° Ano do ensino médio <img src="https://ceepcastaldi.webnode.com/_files/200000147-5e5b85f55b/200000017.png?ph=68c9b5e3c0" width="70">
-- 👔 Trabalho: F&K Group <img src="http://www.abve.org.br/wp-content/uploads/2020/07/FK-300x151.png" width="50">
-- ✨ Tempo livre: 🏓ping pong / 🎼música / 🧵artesanato...
-
-## Aprendendo
-- Linguagem C
-- Inglês.
-- Markdown
-- Circuitos Eletrônicos
-- Git
-- HTML
-- CSS
+- 🌵 Idade: 17 anos
+- 🌎 Naturalidade: São Paulo - SP  
+- 📚 Escolaridade: 3° Ano do ensino médio 
+- 👔 Trabalho: F&K Group 
+- ✨ Tempo livre: 🏓ping pong / 🎼música / 🏐 voleibol
+ 
 
 ## Evolução
 <a href="https://github.com/RayssaCorreia">
@@ -24,14 +14,29 @@
   <a href="https://github.com/RayssaCorreia">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RayssaCorreia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayssaCorreia&layout=compact&langs_count=7&theme=dracula"/>
-
-## O que espero daqui pra frente
-### Faz pouquíssimo tempo que entrei nesse ramo , estou fascinada com quantas ramificações e possibilidades. Espero me especializar e assim contribuir ainda mais para a evolução e crescimento desse "mundo tecnológico".
-![mundo](http://www.guiaolasp.com.br/wp-content/uploads/2021/06/tic_nas_empresas.jpg)
-
- <a href = "mailto:rayssamicorreia@gmail.com" ><img src="https://img.shields.io/badge/ Gmail-D14836? style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  [![Instagram: RayssaCorreia](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/rayssa_ccorreia/
-)](https://www.instagram.com/rayssa_ccorreia/)
+  
+## **Já tive contato**
+<div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/> ▫️
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" width="40"/> ▫️
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" /> ▫️
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" /> ▫️
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" /> ▫️
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" /> ▫️  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" /> ▫️
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" /> ▫️
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  width="40" /> ▫️
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" /> ▫️
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" /> ▫
+                 
+    
+</div> 
+    
+##
+    
+<a href = "mailto:rayssamicorreia@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.instagram.com/rayssa_ccorreia/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/rayssa-correia-412a44220/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
 <!--
 fontes:
