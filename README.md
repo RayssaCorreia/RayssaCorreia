@@ -15,7 +15,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RayssaCorreia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayssaCorreia&layout=compact&langs_count=7&theme=dracula"/>
   
-## **Já tive contato**
+## **Contato com...**
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/> ▫️
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" width="40"/> ▫️
@@ -27,7 +27,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" /> ▫️
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  width="40" /> ▫️
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" /> ▫️
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" /> ▫
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" /> ▫️
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRebkc6YcbTTBGSnRy7alJMnhX1Gx6XRZ0K6UiCjWpCm_4dJ9o0yuAj_jI4Uxae_sAnHD0&usqp=CAU" width="40" />
                  
     
 </div> 
