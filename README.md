@@ -1,20 +1,20 @@
-<!-- obs: eu que fiz a gif-->
-# **Rayssa Correia**  <img src= "https://i.picasion.com/pic91/f753ba2ca2f2ee1cb3a41d7eb9465679.gif" width="60">
+# **Rayssa Correia**  <img src= "https://i.picasion.com/pic91/f753ba2ca2f2ee1cb3a41d7eb9465679.gif" width="40">
 
-- 🌵 Idade: 17 anos
-- 🌎 Naturalidade: São Paulo - SP  
-- 📚 Escolaridade: 3° Ano do ensino médio 
-- 👔 Trabalho: F&K Group 
-- ✨ Tempo livre: 🏓ping pong / 🎼música / 🏐 voleibol
+- 🌵 Age: 18 years old
+- 📚 Education: 1st Period Electrical Engineering
+- 👔 Work: F&K Group
+- ✨ Free time: 🏓ping pong / 🎼music / 🏐 volleyball
  
 
-## Evolução
+## Evolution
 <a href="https://github.com/RayssaCorreia">
 
   <a href="https://github.com/RayssaCorreia">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RayssaCorreia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayssaCorreia&layout=compact&langs_count=7&theme=dracula"/>
-  
+
+</div>
+<!--
 ## **Contato com...**
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/> ▫️
@@ -29,10 +29,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" /> ▫️
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" /> ▫️
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRebkc6YcbTTBGSnRy7alJMnhX1Gx6XRZ0K6UiCjWpCm_4dJ9o0yuAj_jI4Uxae_sAnHD0&usqp=CAU" width="40" />
-                 
-    
 </div> 
-    
+-->
+   
 ##
     
 <a href = "mailto:rayssamicorreia@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
