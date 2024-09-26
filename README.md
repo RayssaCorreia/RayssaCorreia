@@ -1,6 +1,5 @@
 # **Rayssa Correia**  <img src= "https://i.picasion.com/pic91/f753ba2ca2f2ee1cb3a41d7eb9465679.gif" width="40">
 
-- 🌵 Age: 18 years old
 - 📚 Education: 1st Period Electrical Engineering
 - 👔 Work: F&K Group
 - ✨ Free time: 🏓ping pong / 🎼music / 🏐 volleyball
