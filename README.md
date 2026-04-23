@@ -1,8 +1,10 @@
 # **Rayssa Correia**  <img src= "https://i.picasion.com/pic91/f753ba2ca2f2ee1cb3a41d7eb9465679.gif" width="40">
 
-- 📚 Education: 1st Period Electrical Engineering
-- 👔 Work: F&K Group
-- ✨ Free time: 🏓ping pong / 🎼music / 🏐 volleyball
+- Education: Currently in the 5th semester of Electrical Engineering.
+
+- Occupation: Electronics Technician.
+
+- Skills: Hardware, electronics, mechatronics, and development projects.
  
 
 ## Evolution
